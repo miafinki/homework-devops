@@ -7,5 +7,6 @@ int main(){
 		cout << "pen pineapple" << endl;
 	else
 		cout << "apple pen" << endl;
+	cout << "End of program." << endl;
 	return 0;
 }
